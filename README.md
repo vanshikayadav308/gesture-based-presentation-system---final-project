@@ -1,10 +1,10 @@
 
 # Gesture-Controlled Presentation Navigation System
 
-**Final Year Project — BSc Computer Science, 2025–26**  
-**Author:** Vanshika Yadav  
-**Supervisor:** Prashanth Thattai Ravikumar  
-**GitHub:** https://github.com/vanshikayadav308/gesture-presentation-system-final-prototype
+Final Year Project — BSc Computer Science, 2025–26 
+Author: Vanshika Yadav  
+Supervisor: Prashanth Thattai Ravikumar  
+GitHub: https://github.com/vanshikayadav308/gesture-based-presentation-system---final-project
 
 ---
 
@@ -43,8 +43,8 @@ A browser-based prototype that lets users navigate PDF presentations using hand 
 ### Step 1 — Clone or unzip the project
 
 ```bash
-git clone https://github.com/vanshikayadav308/gesture-presentation-system-final-prototype.git
-cd gesture-presentation-system-final-prototype
+git clone https://github.com/vanshikayadav308/gesture-based-presentation-system---final-project
+cd gesture-presentation-system-final-project
 ```
 
 Or unzip the submitted archive and `cd` into the project folder.
